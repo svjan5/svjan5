@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working as a Postdoctoral Researcher at Language Technologies Institute, Carnegie Mellon University under Carolyn Rose. Previously, I completed my PhD from Indian Insitute of Science under the guidance of Partha Pratim Talukdar, Chiranjib Bhattacharyya, and Manaal Faruqui. My thesis topic was on Neural Graph Embedding Methods for Natural Language Processing. I have been a recipient of the prestigious Google PhD Fellowship during my PhD and have got opportunity to intern at Google Research, NYC and Microsoft. I completed my graduation from BITS Pilani, Pilani in 2016.
+I am currently working as a Postdoctoral Researcher at Microsoft Research. Prior to this, I was a postdoc at Language Technologies Institute, Carnegie Mellon University under Carolyn Rose in the area of Information Extraction in biomedical domain. I completed my PhD from Indian Institute of Science under the guidance of Partha Pratim Talukdar, Chiranjib Bhattacharyya, and Manaal Faruqui. My thesis topic was on Neural Graph Embedding Methods for Natural Language Processing. I have been a recipient of the prestigious ACM India Doctoral Dissertation Award and Google PhD Fellowship during my PhD. I have also got opportunity to intern at Google Research and Microsoft. I completed my graduation from BITS Pilani, Pilani in 2016.
 
 ### Repositories
 
